@@ -6,7 +6,7 @@ function l() {
   ls -al $1
 }
 
-alias repos="cd ~/Documents/Git && ls"
+alias repos="cd ~/repos && ls"
 
 alias hub="open https://github.com"
 
