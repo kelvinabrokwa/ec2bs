@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log
+.gitignore
+.DS_Store
+.DS_Store?
+.vimrc.local
+*.orig
+*.swp
+*.swo
+*.swn
+Gemfile.lock

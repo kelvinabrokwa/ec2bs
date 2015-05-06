@@ -1,2 +1,3 @@
 # ec2bs
-quickly bootstrap a linux box and get going
+
+Quick configurations for working in new EC2s (or other fresh VMs). Just clone, run, and go.
